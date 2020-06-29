@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(136): warning C4018: '<': signed/unsigned mismatch
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(143): warning C4018: '<': signed/unsigned mismatch
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(148): warning C4018: '<': signed/unsigned mismatch
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(208): warning C4101: 'minimized_chars_arr': unreferenced local variable
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(350): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(360): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(373): warning C4018: '<': signed/unsigned mismatch
+d:\auc\5th semester\321\bonus assingment - smw2l\source.cpp(379): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  321 Bonus Assignment.vcxproj -> C:\Users\Os\source\repos\321 Bonus Assignment\Debug\321 Bonus Assignment.exe
